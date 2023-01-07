@@ -26,10 +26,10 @@
             <tr>
                 <!-- judul tabel -->
                 <th style="width: 5%" ;>No.</th>
-                <th style="width: 10%" ;>id</th>
-                <th style="width: 20%" ;>Nama</th>
-                <th style="width: 10%" ;>Jenis Kelamin</th>
-                <th style="width: 10%" ;>Alamat</th>
+                <th style="width: 10%" ;>id_buku</th>
+                <th style="width: 20%" ;>Nama Buku</th>
+                <th style="width: 10%" ;>Jenis Buku/th>
+                <th style="width: 10%" ;>Nama Penulis</th>
                 <th style="width: 20%" ;>No Hp</th>
                 <th style="width: 10%" ;>Aksi</th>
             </tr>
