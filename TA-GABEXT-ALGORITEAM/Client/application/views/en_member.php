@@ -161,7 +161,7 @@
                 setSave(txt_id.value,txt_nama.value,txt_email.value,cbo_telepon.value)
             }            
         })
-        const setSave = (id,nama,email,telepon => {
+        const setSave = ( id,nama,email,telepon => ){
             let form = new FormData();
             
             form.append("idnya",id);
