@@ -20,7 +20,6 @@ class Mmember extends CI_Model {
         return $query;
 
     }
-    
     // buat fungsi untuk simpan data
     function save_data($id,$nama_member,$email,$no_telp,$token)
     {
